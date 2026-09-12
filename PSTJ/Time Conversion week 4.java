@@ -1,13 +1,3 @@
-// ──────────────────────────────────────────────────
-// Link        https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true
-// Problem     Time Conversion
-// Difficulty  Easy
-// Subdomain   Warmup
-// Platform    HackerRank
-// Language    java8
-// Status      Accepted
-// Submitted   2026-09-08, 08:38 p.m.
-// ──────────────────────────────────────────────────
 
 import java.io.*;
 import java.math.*;
