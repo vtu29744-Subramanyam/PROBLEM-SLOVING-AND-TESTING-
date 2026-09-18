@@ -1,14 +1,3 @@
-// ──────────────────────────────────────────────────
-// Link        https://www.hackerrank.com/challenges/matrix-rotation-algo/problem?isFullScreen=true
-// Problem     Matrix Layer Rotation 
-// Difficulty  Hard
-// Subdomain   Implementation
-// Platform    HackerRank
-// Language    java8
-// Status      Accepted
-// Submitted   2026-09-08, 09:04 p.m.
-// ──────────────────────────────────────────────────
-
 import java.io.*;
 import java.util.*;
 import java.util.stream.*;
